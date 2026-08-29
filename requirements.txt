@@ -1,0 +1,5 @@
+requests
+numpy
+psycopg2-binary
+streamlit
+pandas
